@@ -1,4 +1,4 @@
-# crudapp
+# Github Finder
 
 > A Vue.js project
 
